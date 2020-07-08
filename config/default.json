@@ -1,0 +1,8 @@
+{
+  "jwtSecret": "theShadowofSecret",
+  "dbuser": "root",
+  "dbpassword": "amar123",
+  "database": "crosschargeportal",
+  "dbport": 3306,
+  "dbhost": "127.0.0.1"
+}

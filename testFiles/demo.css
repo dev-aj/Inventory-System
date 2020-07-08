@@ -1,0 +1,39 @@
+#parent {
+  height: 610px;
+  width: 405px;
+  background-color: lightgray;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-around;
+}
+.numbers {
+  text-align: center;
+  text-decoration: solid;
+  color: black;
+  font-size: 2.5rem;
+  margin: 30px;
+}
+.numbersb {
+  text-align: center;
+  text-decoration: solid;
+  color: white;
+  font-size: 2.5rem;
+  margin: 30px;
+}
+.div0 {
+  height: 100px;
+  width: 412px;
+  background-color: lightgrey;
+}
+.div1 {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+}
+.div2 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+}
